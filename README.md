@@ -1,2 +1,3 @@
-# reinforcement-learning-COMP-767
-Assignments &amp; RL algorithm implementation
+## COMP-767: Reinforcement Learning  
+
+Assignments &amp; RL algorithms implementation
