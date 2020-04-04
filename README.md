@@ -2,6 +2,9 @@
 
 RL algorithms and concepts implementation:  
 * Multi-armed Bandit Problem  
+    * Boltzmann (Softmax)  
+    * UCB  
+    * Thomson sampling  
 * Policy Iteration  
 * Value Iteration  
 * Q-learning: Off-Policy TD Control  
