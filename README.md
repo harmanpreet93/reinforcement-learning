@@ -1,6 +1,6 @@
 ## COMP-767: Reinforcement Learning  
 
-RL algorithms implementation:  
+RL algorithms and concepts implementation:  
 * Multi-armed Bandit Problem  
 * Value Iteration  
 * Q-learning 
@@ -8,6 +8,7 @@ RL algorithms implementation:
 * *n-step* SARSA  
 * *n-step* Q-learning  
 * *n-step* Expected SARSA  
+* Experience Replay
     
     
     
