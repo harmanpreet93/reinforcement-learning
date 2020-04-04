@@ -16,6 +16,7 @@ RL algorithms and concepts implementation:
     * Boltzmann (Softmax)  
     * UCB  
     * Thomson sampling  
+    * E-Greedy  
 * Policy Iteration  
 * Value Iteration  
 * Q-learning: Off-Policy TD Control  
