@@ -2,8 +2,9 @@
 
 RL algorithms and concepts implementation:  
 * Multi-armed Bandit Problem  
-* Value Iteration  
-* Q-learning 
+* Policy Iteration  
+* On-Policy Value Iteration  
+* Off-policy Q-learning 
 * Continuos Random Walk  
 * *n-step* SARSA  
 * *n-step* Q-learning  
