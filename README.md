@@ -1,4 +1,4 @@
-## COMP-767: Reinforcement Learning  
+## Reinforcement Learning - COMP-767
 
 RL algorithms and concepts implementation:  
 
